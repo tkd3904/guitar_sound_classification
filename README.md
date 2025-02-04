@@ -9,8 +9,8 @@
 >> ![Image](https://github.com/user-attachments/assets/b60c11dc-d432-4964-b99a-f10d628da795)
 # Loss_Function & Accuracy
 >>![Image](https://github.com/user-attachments/assets/449e2840-293e-4775-b3c4-e5bcfcabf668)
->>20에폭 이후로 오버피팅이 있는거 같긴 함 데이터셋이 워낙 작아서 예측은 잘하는데...
+>> 20에폭 이후로 오버피팅이 있는거 같음
 # Test
 >> ![Image](https://github.com/user-attachments/assets/2be91ba7-167e-47cd-b11f-6c8437f0f22c)
 >> ![Image](https://github.com/user-attachments/assets/03707e40-9723-4329-b9e8-dd582233967a)
->> pickup position 이랑 어떤 effect를 입혔는지도 분류할 수 있다.
+>> 일단은 clean과 other만 구분 가능하고 공간계는 거의 clean으로 분류한다 데이터셋이 부족해서 일어난 일인것 같다.
