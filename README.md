@@ -5,6 +5,7 @@
 >> ![Image](https://github.com/user-attachments/assets/9d11a6da-a76b-412f-9828-1627926a083c)
 >> 
 >> (수정 2025-02-05) Mel-spectrogram에 쓸데없는 정보를 다 빼기로 함
+>> 
 >> ![Image](https://github.com/user-attachments/assets/2c893ed1-92c1-4990-a1a9-995f1f458ff9)
 
 >> 해당형태로 라벨 제거
